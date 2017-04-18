@@ -9,8 +9,9 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="scut.carson_ho.valueanimator_ofobject.MainActivity">
 
-    <scut.carson_ho.valueanimator_ofobject.MyView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+    <scut.carson_ho.valueanimator_ofobject.MyView2
+        android:id="@+id/MyView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
          />
 </RelativeLayout>
